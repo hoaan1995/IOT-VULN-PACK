@@ -1,2 +1,2 @@
-# IOT-VULN-PACK
-Summary of IOT vulnerabilities from old to newest
+## IOT VULN PACK
+#For learning purposes, please do not use it illegally!!
